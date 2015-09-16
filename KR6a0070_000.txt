@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 數經
+#+DATE: 2015-08-30 19:30:09.589323
+#+PROPERTY: JUAN 0
